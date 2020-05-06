@@ -1,5 +1,5 @@
 cask 'yyets' do
-  version '3.1.2'
+  version '3.2.2'
   sha256 '3fa5cd76b9794878ff1ce60efc74ddda57cecfe3cb271b4075f63450c4d31ffd'
 
   url "http://appdown.rrys.tv/RRShare_#{version}.dmg"
